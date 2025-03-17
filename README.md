@@ -17,7 +17,7 @@ The project explores several key concepts in artificial intelligence:
 ### Prerequisites
 
 - Python 3.x
-- No additional packages required
+- tkinter [link](https://docs.python.org/3/library/tkinter.html)
 
 ### Installation
 
@@ -200,4 +200,4 @@ This project is designed to teach:
 - Modeling probabilistic vs. adversarial agents
 
 ## Refference
-- <a href="https://ai.berkeley.edu/project_overview.html">link</a>
+- link [link](https://ai.berkeley.edu/project_overview.html)
