@@ -200,4 +200,4 @@ This project is designed to teach:
 - Modeling probabilistic vs. adversarial agents
 
 ## Refference
-- link [link](https://ai.berkeley.edu/project_overview.html)
+- berkeley ai webpage [link](https://ai.berkeley.edu/project_overview.html)
